@@ -1,1 +1,1 @@
-# autoPET_algorithm_1
+# autoPET_algorithms
